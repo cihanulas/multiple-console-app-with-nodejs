@@ -2,10 +2,13 @@
   "name": "commandline",
   "version": "1.0.0",
   "description": "multiple commandline tool implentation",
-  "main": "index.js",
+  "main": "bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Cihan Ulas",
-  "license": "ISC"
+  "license": "MIT",
+  "bin": {
+    "hello": "./bin/index.js"
+  }
 }
