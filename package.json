@@ -9,7 +9,10 @@
   "author": "Cihan Ulas",
   "license": "MIT",
   "bin": {
-    "hello": "./bin/index.js"
+    "hello": "./bin/index.js",
+    "app1": "./bin/app1.js",
+    "app2": "./bin/app2.js",
+    "app12": "./bin/app12.js"
   },
   "dependencies": {
     "axios": "^0.19.2",
