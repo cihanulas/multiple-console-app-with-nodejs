@@ -18,3 +18,8 @@ npm uninstall -g hello-cli
 
 Tip: You can list all globally installed Node.js modules using npm ls -g --depth=0.
 npm ls -g --depth=0
+
+To use yargs
+
+hello -n cihan, 
+hello --version
